@@ -1,0 +1,27 @@
+import os
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+PURPLE = (135, 4, 177)
+ORANGE = (255, 127, 36)
+LIGHT_ORANGE = (255, 165, 79)
+RED = 	(230, 32, 32)
+LIGHT_RED = (234, 60, 83)
+PINK = (255, 97, 134)
+BLUE = (51, 153, 204)
+LIGHT_BLUE = (0, 204, 204)
+YELLOW = (255, 255, 0)
+GOLD = (255, 215, 0)
+PURPLE = (153, 50, 205)
+DARK_PURPLE = (128, 0, 128)
+GREEN = (173, 255, 47)
+
+PAUSE_BG = (16, 16, 16)
+BG = (30, 30, 30)
+DELAY = 5000
+DEF_FONT = os.path.join('data', 'OpenSans-Light.ttf')
+BUT_COLOR = (122, 55, 139)
+BUT_BG = (41, 41, 41)
+
+
+RES = (1005, 480)
