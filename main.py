@@ -21,7 +21,7 @@ def main():
     MenuInfo = {'colour1': ORANGE,
                 'colour2': YELLOW,
                 'caption': 'Breakout',
-                'desc': 'Welcome to a breakout clone with a mordern look'
+                'desc': 'A simple breakout clone.'
                 }
    
     ButtonInfo = {'caption': "Play",
