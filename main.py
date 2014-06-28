@@ -47,8 +47,6 @@ def main():
     
     font_path = os.path.join('data', 'OpenSans-Light.ttf')
     
-    font = pygame.font.Font(font_path, 15)
-    text = font.render("Every story starts small...", True, LIGHT_BLUE, BG).convert()
     x = screen.get_width()/2
     y = screen.get_height()-30
     textpos = text.get_rect(centerx=x, centery=y)
