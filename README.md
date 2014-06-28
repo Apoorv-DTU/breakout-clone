@@ -3,9 +3,9 @@ breakout-clone
 
 A simple breakout clone written in python using pygame
 
-To build, simply run:
+To play, simply run:
   
-  python main.py
+  > python main.py
 
 Tested with 2.7.6 on:
 	Windows 8 64-bit,
