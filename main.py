@@ -49,9 +49,6 @@ def main():
     
     x = screen.get_width()/2
     y = screen.get_height()-30
-    textpos = text.get_rect(centerx=x, centery=y)
-    
-    screen.blit(text, textpos)
     
     clock = pygame.time.Clock()
     
